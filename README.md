@@ -13,3 +13,7 @@ Flutter app integration with back4app
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#1.  Show Task
+![](https://raw.githubusercontent.com/jigarladhava/flutter_parse/main/demogifs/1_showTask.gif)
+
