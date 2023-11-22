@@ -4,15 +4,34 @@ Assignment for 2022mt12255 : Cross Platform Application Development
 
 ## Getting Started
 
-
 Flutter app integration with back4app
+
+
+Steps to Run the app.
+- Install Android Studio
+- Create a Virtual Device with Virutal Device Manager in Android Studio
+- [Download](https://nodejs.org/en/) and Install node.js
+
+
+Clone github repo with git clone
+```
+git clone https://github.com/jigarladhava/flutter_parse.git
+```
+
+Navigate to flutter_parse directory
+```
+cd flutter_parse
+```
+Run application using 'flutter run' command
+```
+flutter run
+```
+
 
 - [Assignement Code and Steps Explaination PDF](https://github.com/jigarladhava/flutter_parse/blob/d6fabfddea99c4867674d7b694305f0e1aad7b87/docs/Assignment%202022mt12255.pdf)
 - [Assignement Code and Steps Explaination Word File](https://github.com/jigarladhava/flutter_parse/blob/d6fabfddea99c4867674d7b694305f0e1aad7b87/docs/Assignment%202022mt12255.docx)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
 
 #1.  Show Task
 ![](https://raw.githubusercontent.com/jigarladhava/flutter_parse/main/demogifs/1_showTask.gif)
