@@ -10,8 +10,16 @@ Flutter app integration with back4app
 Steps to Run the app.
 - Install Android Studio
 - Create a Virtual Device with Virutal Device Manager in Android Studio
-- [Download](https://nodejs.org/en/) and Install node.js
+- [Download Node.js](https://nodejs.org/en/) and Install it.
+- [Download flutter sdk](https://docs.flutter.dev/get-started/install) and extract it.
+- Set node js directory in PATH variable 
 
+Check if flutter configured properly using the command below
+```
+flutter doctor
+```
+
+Once flutter is ready then,
 
 Clone github repo with git clone
 ```
