@@ -7,8 +7,8 @@ Assignment for 2022mt12255 : Cross Platform Application Development
 
 Flutter app integration with back4app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Assignement Code and Steps Explaination PDF](https://github.com/jigarladhava/flutter_parse/blob/d6fabfddea99c4867674d7b694305f0e1aad7b87/docs/Assignment%202022mt12255.pdf)
+- [Assignement Code and Steps Explaination Word File](https://github.com/jigarladhava/flutter_parse/blob/d6fabfddea99c4867674d7b694305f0e1aad7b87/docs/Assignment%202022mt12255.docx)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
